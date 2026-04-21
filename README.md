@@ -12,6 +12,10 @@ When cloning a **Personal** or **University** project, use the `github-personal`
 git clone git@github-personal:OWNER/REPO.git
 For work-related projects, you would use git clone git@github-work:OWNER/REPO.git.
 ```
+Real Example 
+```bash
+git clone git@github-work:skmjcdev/browngro-dev.git
+```
 
 ## 🛠️ Repository Configuration
 Immediately after cloning, navigate into the project folder and set your local identity. This ensures your commits are linked to your personal email.
